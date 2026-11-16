@@ -1,0 +1,6 @@
+repository = "https://github.com/Inf1mum/openidea-codetime"
+
+[[versions]]
+version = "0.1.0"
+package = "https://github.com/Inf1mum/openidea-codetime/releases/download/v0.1.0/inf1mum.codetime-0.1.0.oiplugin"
+sha256 = "7da297193c5e5420601d142dc70cd4c99e3b12022880e66a493e62d77d894d4e"
