@@ -4,3 +4,8 @@ repository = "https://github.com/Inf1mum/openidea-scope-highlight"
 version = "0.1.0"
 package = "https://github.com/Inf1mum/openidea-scope-highlight/releases/download/v0.1.0/inf1mum.scope-highlight-0.1.0.oiplugin"
 sha256 = "1ebf07c1386c43a1959a9eb9bbc1653ae79e26b689994fb2399b21f251acfd7d"
+
+[[versions]]
+version = "0.1.1"
+package = "https://github.com/Inf1mum/openidea-scope-highlight/releases/download/v0.1.1/inf1mum.scope-highlight-0.1.1.oiplugin"
+sha256 = "efbf31a6ff5ab20ce921c6e6cfa8f705375092ddd6e8523bffeafd2140afc72f"
