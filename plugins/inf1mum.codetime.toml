@@ -9,3 +9,8 @@ sha256 = "7da297193c5e5420601d142dc70cd4c99e3b12022880e66a493e62d77d894d4e"
 version = "0.1.1"
 package = "https://github.com/Inf1mum/openidea-codetime/releases/download/v0.1.1/inf1mum.codetime-0.1.1.oiplugin"
 sha256 = "b2b43de01476fb9f33b230411ec0622500d9e0c05378f2fc4ca62b942f472bbe"
+
+[[versions]]
+version = "0.1.2"
+package = "https://github.com/Inf1mum/openidea-codetime/releases/download/v0.1.2/inf1mum.codetime-0.1.2.oiplugin"
+sha256 = "422fe06788009104226539d9ca5e0742e356751a19fb3b71f76f09c8e59b8b59"
